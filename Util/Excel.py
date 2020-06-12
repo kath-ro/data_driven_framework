@@ -239,7 +239,7 @@ if __name__ == "__main__":
     #print(excel_file.get_a_column_values(0))
     #print(excel_file.get_cell_value(0,0))
     print(excel_file.get_cell_value(3,0))
-    print(excel_file.write_cell_value(3,0,"数据驱动实操单元格","red"))
+    print(excel_file.write_cell_value(3,0,"数据驱动框架","red"))
     #excel_file.write_col_in_sheet(10,[1,2,3,4,5])
     #excel_file.write_cell_time(5,0)
     # print(data)
